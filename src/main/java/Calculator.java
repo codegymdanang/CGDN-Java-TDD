@@ -18,4 +18,6 @@ public class Calculator {
         return sum;
     }
 
+    public void test() {}
+
 }
